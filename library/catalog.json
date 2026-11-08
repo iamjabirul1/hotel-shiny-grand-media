@@ -1,0 +1,1222 @@
+{
+ "ddaf83b8c5": {
+  "source": "09418a9d-ce23-48d9-bac7-1ba9e1027d35.jpg",
+  "category": "rejected",
+  "reason": "low quality (px (896, 1195), sharp 384.9)"
+ },
+ "5eb08a9888": {
+  "source": "18188E96-EB04-4C5E-B14D-2D8B6FF3CAB9.PNG",
+  "category": "restaurant",
+  "orientation": "landscape",
+  "fb": "library/5eb08a9888-fb.jpg",
+  "ig": "library/5eb08a9888-ig.jpg",
+  "used": [
+   "2026-10-03",
+   "2026-10-23"
+  ],
+  "sharp": 1209.2
+ },
+ "336d315da5": {
+  "source": "2 (1).png",
+  "category": "room",
+  "orientation": "landscape",
+  "fb": "library/336d315da5-fb.jpg",
+  "ig": "library/336d315da5-ig.jpg",
+  "used": [
+   "2026-10-05"
+  ],
+  "sharp": 512.4
+ },
+ "c6ca16b503": {
+  "source": "28062422-880a-4802-a73a-70a098117056 2.jpg",
+  "category": "rejected",
+  "reason": "low quality (px (896, 1195), sharp 189.9)"
+ },
+ "7ae39bc679": {
+  "source": "3 (1).png",
+  "category": "room-twin",
+  "orientation": "landscape",
+  "fb": "library/7ae39bc679-fb.jpg",
+  "ig": "library/7ae39bc679-ig.jpg",
+  "used": [
+   "2026-10-07"
+  ],
+  "sharp": 435.0
+ },
+ "b69af04867": {
+  "source": "51ee05bc-1512-470a-bb29-022527844726-2 (1).png",
+  "category": "bed-detail",
+  "orientation": "portrait",
+  "fb": "library/b69af04867-fb.jpg",
+  "ig": "library/b69af04867-ig.jpg",
+  "used": [],
+  "sharp": 278.1
+ },
+ "935f2d6cd3": {
+  "source": "51ee05bc-1512-470a-bb29-022527844726.png",
+  "category": "bed-detail",
+  "orientation": "portrait",
+  "fb": "library/935f2d6cd3-fb.jpg",
+  "ig": "library/935f2d6cd3-ig.jpg",
+  "used": [],
+  "sharp": 186.9
+ },
+ "37dd05868a": {
+  "source": "59E07A8A-48F5-4A76-84E5-AE22EE9DC0FD.png",
+  "category": "banquet",
+  "orientation": "landscape",
+  "fb": "library/37dd05868a-fb.jpg",
+  "ig": "library/37dd05868a-ig.jpg",
+  "used": [
+   "2026-10-03"
+  ],
+  "sharp": 996.7
+ },
+ "40a62eee2a": {
+  "source": "73652dc8-1988-42ae-b8af-34ee147d0924.jpg",
+  "category": "rejected",
+  "reason": "low quality (px (896, 1195), sharp 447.7)"
+ },
+ "d97552fae1": {
+  "source": "8666a685-b46b-4380-bf5c-3c76e9c91ae0 (1).png",
+  "category": "room",
+  "orientation": "portrait",
+  "fb": "library/d97552fae1-fb.jpg",
+  "ig": "library/d97552fae1-ig.jpg",
+  "used": [
+   "2026-10-07"
+  ],
+  "sharp": 433.7
+ },
+ "208dd9f868": {
+  "source": "8877A1CA-D466-42B0-BF14-FA8EDEA6615C 2.png",
+  "category": "room-detail",
+  "orientation": "landscape",
+  "fb": "library/208dd9f868-fb.jpg",
+  "ig": "library/208dd9f868-ig.jpg",
+  "used": [
+   "2026-10-18"
+  ],
+  "sharp": 340.0
+ },
+ "c98d91a874": {
+  "source": "988f2486-56d4-4435-9182-7716324a250a (1) (1).png",
+  "category": "bathroom",
+  "orientation": "portrait",
+  "fb": "library/c98d91a874-fb.jpg",
+  "ig": "library/c98d91a874-ig.jpg",
+  "used": [],
+  "sharp": 831.2
+ },
+ "1a05eaf3a1": {
+  "source": "988f2486-56d4-4435-9182-7716324a250a.png",
+  "category": "bathroom",
+  "orientation": "portrait",
+  "fb": "library/1a05eaf3a1-fb.jpg",
+  "ig": "library/1a05eaf3a1-ig.jpg",
+  "used": [],
+  "sharp": 518.9
+ },
+ "187c9f9c34": {
+  "source": "AA6878A7-FA73-42D6-8462-3029AE2C257A 2.png",
+  "category": "room",
+  "orientation": "portrait",
+  "fb": "library/187c9f9c34-fb.jpg",
+  "ig": "library/187c9f9c34-ig.jpg",
+  "used": [
+   "2026-10-25"
+  ],
+  "sharp": 411.8,
+  "platforms": [
+   "facebook",
+   "instagram",
+   "x"
+  ]
+ },
+ "4d22cd2793": {
+  "source": "B33E0626-1F71-4C54-ABAE-6CB40818C1FB 2.png",
+  "category": "room-detail",
+  "orientation": "landscape",
+  "fb": "library/4d22cd2793-fb.jpg",
+  "ig": "library/4d22cd2793-ig.jpg",
+  "used": [
+   "2026-10-04"
+  ],
+  "sharp": 456.5
+ },
+ "57b3cf0b80": {
+  "source": "C669FA96-7311-457E-8C34-9050AAC30E10.PNG",
+  "category": "exterior-day",
+  "orientation": "landscape",
+  "fb": "library/57b3cf0b80-fb.jpg",
+  "ig": "library/57b3cf0b80-ig.jpg",
+  "used": [
+   "2026-10-06"
+  ],
+  "sharp": 1592.6
+ },
+ "e4ea32bb32": {
+  "source": "CEE78997-45E6-4F0F-95D1-9E297D8D189C.png",
+  "category": "room",
+  "orientation": "landscape",
+  "fb": "library/e4ea32bb32-fb.jpg",
+  "ig": "library/e4ea32bb32-ig.jpg",
+  "used": [],
+  "sharp": 529.7
+ },
+ "a608570fec": {
+  "source": "ChatGPT Image Aug 18, 2026 at 11_24_59 AM.png",
+  "category": "banquet",
+  "orientation": "landscape",
+  "fb": "library/a608570fec-fb.jpg",
+  "ig": "library/a608570fec-ig.jpg",
+  "used": [
+   "2026-10-06"
+  ],
+  "sharp": 835.0
+ },
+ "30d3a33531": {
+  "source": "ChatGPT Image Aug 18, 2026, 05_58_00 PM (1).png",
+  "category": "room",
+  "orientation": "landscape",
+  "fb": "library/30d3a33531-fb.jpg",
+  "ig": "library/30d3a33531-ig.jpg",
+  "used": [
+   "2026-11-01"
+  ],
+  "sharp": 378.8,
+  "platforms": [
+   "facebook",
+   "instagram",
+   "x"
+  ]
+ },
+ "6a17b09149": {
+  "source": "ChatGPT Image Aug 8, 2026, 11_36_12 AM.png",
+  "category": "room",
+  "orientation": "landscape",
+  "fb": "library/6a17b09149-fb.jpg",
+  "ig": "library/6a17b09149-ig.jpg",
+  "used": [],
+  "sharp": 377.2
+ },
+ "46ae01d135": {
+  "source": "ChatGPT Image Aug 8, 2026, 11_37_09 AM.png",
+  "category": "room-twin",
+  "orientation": "landscape",
+  "fb": "library/46ae01d135-fb.jpg",
+  "ig": "library/46ae01d135-ig.jpg",
+  "used": [],
+  "sharp": 332.9
+ },
+ "57d5fef93c": {
+  "source": "ChatGPT Image Aug 8, 2026, 11_42_27 AM.png",
+  "category": "room",
+  "orientation": "landscape",
+  "fb": "library/57d5fef93c-fb.jpg",
+  "ig": "library/57d5fef93c-ig.jpg",
+  "used": [],
+  "sharp": 302.4
+ },
+ "d9fd7481b5": {
+  "source": "D4747730-7331-4A15-AC0C-52266C9116C4.png",
+  "category": "room",
+  "orientation": "landscape",
+  "fb": "library/d9fd7481b5-fb.jpg",
+  "ig": "library/d9fd7481b5-ig.jpg",
+  "used": [],
+  "sharp": 341.0
+ },
+ "96349fa040": {
+  "source": "IMG_2348 2.PNG",
+  "category": "exterior-night",
+  "orientation": "landscape",
+  "fb": "library/96349fa040-fb.jpg",
+  "ig": "library/96349fa040-ig.jpg",
+  "used": [
+   "2026-10-05"
+  ],
+  "sharp": 1007.1
+ },
+ "e81d04b69b": {
+  "source": "WhatsApp Image 2026-09-28 at 02.25.33 (1).jpeg",
+  "category": "banquet",
+  "orientation": "landscape",
+  "fb": "library/e81d04b69b-fb.jpg",
+  "ig": "library/e81d04b69b-ig.jpg",
+  "used": [],
+  "sharp": 398.9
+ },
+ "0a0ad4c894": {
+  "source": "WhatsApp Image 2026-09-28 at 02.25.33.jpeg",
+  "category": "banquet",
+  "orientation": "landscape",
+  "fb": "library/0a0ad4c894-fb.jpg",
+  "ig": "library/0a0ad4c894-ig.jpg",
+  "used": [
+   "2026-10-15"
+  ],
+  "sharp": 431.4
+ },
+ "47b3cea511": {
+  "source": "WhatsApp Image 2026-09-28 at 02.25.34 (1).jpeg",
+  "category": "banquet",
+  "orientation": "landscape",
+  "fb": "library/47b3cea511-fb.jpg",
+  "ig": "library/47b3cea511-ig.jpg",
+  "used": [],
+  "sharp": 485.5
+ },
+ "2c8f2fd907": {
+  "source": "WhatsApp Image 2026-09-28 at 02.25.34.jpeg",
+  "category": "banquet",
+  "orientation": "landscape",
+  "fb": "library/2c8f2fd907-fb.jpg",
+  "ig": "library/2c8f2fd907-ig.jpg",
+  "used": [],
+  "sharp": 431.0
+ },
+ "64039bbf1a": {
+  "source": "b3c2d8b8-30b8-4912-8907-4e42624ed6de-2 (1).png",
+  "category": "room",
+  "orientation": "landscape",
+  "fb": "library/64039bbf1a-fb.jpg",
+  "ig": "library/64039bbf1a-ig.jpg",
+  "used": [],
+  "sharp": 429.2
+ },
+ "83f7b5bb5e": {
+  "source": "b3c2d8b8-30b8-4912-8907-4e42624ed6de.png",
+  "category": "room",
+  "orientation": "landscape",
+  "fb": "library/83f7b5bb5e-fb.jpg",
+  "ig": "library/83f7b5bb5e-ig.jpg",
+  "used": [],
+  "sharp": 314.2
+ },
+ "ff30cabe57": {
+  "source": "b92162c7-82ad-4308-9698-f39dc9afc1b8 (1).png",
+  "category": "room",
+  "orientation": "portrait",
+  "fb": "library/ff30cabe57-fb.jpg",
+  "ig": "library/ff30cabe57-ig.jpg",
+  "used": [],
+  "sharp": 262.4
+ },
+ "0aa540983b": {
+  "source": "e6e36a71-9791-444b-a342-e007bec5d4e6.jpg",
+  "category": "rejected",
+  "reason": "low quality (px (1195, 896), sharp 774.8)"
+ },
+ "79bd789ca1": {
+  "source": "toilet (1) (1).png",
+  "category": "bathroom",
+  "orientation": "portrait",
+  "fb": "library/79bd789ca1-fb.jpg",
+  "ig": "library/79bd789ca1-ig.jpg",
+  "used": [],
+  "sharp": 1728.8
+ },
+ "f40ba27709": {
+  "source": "0E09D0DA-502A-4025-9A20-1500695371BD.PNG",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/f40ba27709-fb.jpg",
+  "ig": "library/f40ba27709-ig.jpg",
+  "used": [],
+  "sharp": 1106.2,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "1ce8bf6ea1": {
+  "source": "16EFC584-4056-4859-8B4C-92C2DDAF3511.PNG",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/1ce8bf6ea1-fb.jpg",
+  "ig": "library/1ce8bf6ea1-ig.jpg",
+  "used": [],
+  "sharp": 720.5,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "00ef708ece": {
+  "source": "2F4C0A69-80C4-4085-8991-B3D68C2842B8.PNG",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/00ef708ece-fb.jpg",
+  "ig": "library/00ef708ece-ig.jpg",
+  "used": [],
+  "sharp": 465.2,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "13dedd4569": {
+  "source": "52C55EAC-6A96-475A-8595-C7B5D750E5DB.PNG",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/13dedd4569-fb.jpg",
+  "ig": "library/13dedd4569-ig.jpg",
+  "used": [],
+  "sharp": 1228.2,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "0723e2658e": {
+  "source": "7DAC7824-5488-4C25-8715-8AA1CAEB2E72.PNG",
+  "category": "exterior-day",
+  "orientation": "landscape",
+  "fb": "library/0723e2658e-fb.jpg",
+  "ig": "library/0723e2658e-ig.jpg",
+  "used": [
+   "2026-10-31"
+  ],
+  "sharp": 1136.3,
+  "platforms": [
+   "facebook",
+   "instagram",
+   "x"
+  ]
+ },
+ "4dafadb0bf": {
+  "source": "IMG_2197.PNG",
+  "category": "room-detail",
+  "orientation": "landscape",
+  "fb": "library/4dafadb0bf-fb.jpg",
+  "ig": "library/4dafadb0bf-ig.jpg",
+  "used": [],
+  "sharp": 357.1
+ },
+ "5e1bce3631": {
+  "source": "IMG_2199.PNG",
+  "category": "room",
+  "orientation": "landscape",
+  "fb": "library/5e1bce3631-fb.jpg",
+  "ig": "library/5e1bce3631-ig.jpg",
+  "used": [],
+  "sharp": 246.3
+ },
+ "45f699886e": {
+  "source": "IMG_2200.PNG",
+  "category": "room",
+  "orientation": "landscape",
+  "fb": "library/45f699886e-fb.jpg",
+  "ig": "library/45f699886e-ig.jpg",
+  "used": [],
+  "sharp": 375.9
+ },
+ "cd2be5f13d": {
+  "source": "IMG_2203.PNG",
+  "category": "room",
+  "orientation": "portrait",
+  "fb": "library/cd2be5f13d-fb.jpg",
+  "ig": "library/cd2be5f13d-ig.jpg",
+  "used": [],
+  "sharp": 193.0
+ },
+ "5b368bdda7": {
+  "source": "IMG_2671 2.HEIC",
+  "category": "other",
+  "orientation": "portrait",
+  "fb": "library/5b368bdda7-fb.jpg",
+  "ig": "library/5b368bdda7-ig.jpg",
+  "used": [],
+  "sharp": 990.3,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "e394779f24": {
+  "source": "IMG_2899.HEIC",
+  "category": "other",
+  "orientation": "portrait",
+  "fb": "library/e394779f24-fb.jpg",
+  "ig": "library/e394779f24-ig.jpg",
+  "used": [],
+  "sharp": 873.5,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "231d73a417": {
+  "source": "IMG_2901.HEIC",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/231d73a417-fb.jpg",
+  "ig": "library/231d73a417-ig.jpg",
+  "used": [],
+  "sharp": 1209.6,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "94fd03bce3": {
+  "source": "IMG_2906.HEIC",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/94fd03bce3-fb.jpg",
+  "ig": "library/94fd03bce3-ig.jpg",
+  "used": [],
+  "sharp": 971.1,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "2fe17db0d1": {
+  "source": "IMG_2907.HEIC",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/2fe17db0d1-fb.jpg",
+  "ig": "library/2fe17db0d1-ig.jpg",
+  "used": [],
+  "sharp": 1052.5,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "fa6c2e6ad9": {
+  "source": "IMG_2914.HEIC",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/fa6c2e6ad9-fb.jpg",
+  "ig": "library/fa6c2e6ad9-ig.jpg",
+  "used": [],
+  "sharp": 544.0,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "a9879445d7": {
+  "source": "IMG_3218.HEIC",
+  "category": "other",
+  "orientation": "portrait",
+  "fb": "library/a9879445d7-fb.jpg",
+  "ig": "library/a9879445d7-ig.jpg",
+  "used": [],
+  "sharp": 1099.7,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "b47c3407f3": {
+  "source": "IMG_3219 2.HEIC",
+  "category": "other",
+  "orientation": "portrait",
+  "fb": "library/b47c3407f3-fb.jpg",
+  "ig": "library/b47c3407f3-ig.jpg",
+  "used": [],
+  "sharp": 1378.8,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "d5306af1b0": {
+  "source": "IMG_3349.HEIC",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/d5306af1b0-fb.jpg",
+  "ig": "library/d5306af1b0-ig.jpg",
+  "used": [],
+  "sharp": 1215.2,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "7619e2ab76": {
+  "source": "airport drop service.HEIC",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/7619e2ab76-fb.jpg",
+  "ig": "library/7619e2ab76-ig.jpg",
+  "used": [],
+  "sharp": 2634.8,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "3608fd53e2": {
+  "source": "airport drop.HEIC",
+  "category": "other",
+  "orientation": "portrait",
+  "fb": "library/3608fd53e2-fb.jpg",
+  "ig": "library/3608fd53e2-ig.jpg",
+  "used": [],
+  "sharp": 1963.9,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "7ff9b520df": {
+  "source": "airport dropoff.PNG",
+  "category": "other",
+  "orientation": "portrait",
+  "fb": "library/7ff9b520df-fb.jpg",
+  "ig": "library/7ff9b520df-ig.jpg",
+  "used": [],
+  "sharp": 1811.6,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "37ab28f22f": {
+  "source": "banquet decoration.PNG",
+  "category": "banquet",
+  "orientation": "landscape",
+  "fb": "library/37ab28f22f-fb.jpg",
+  "ig": "library/37ab28f22f-ig.jpg",
+  "used": [
+   "2026-11-08"
+  ],
+  "sharp": 487.4,
+  "platforms": [
+   "facebook",
+   "instagram",
+   "x"
+  ]
+ },
+ "5dcc56d635": {
+  "source": "birthday celebration at banquet hall.PNG",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/5dcc56d635-fb.jpg",
+  "ig": "library/5dcc56d635-ig.jpg",
+  "used": [],
+  "sharp": 518.8,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "123a7251ba": {
+  "source": "bithday celebration with us.heic",
+  "category": "other",
+  "orientation": "portrait",
+  "fb": "library/123a7251ba-fb.jpg",
+  "ig": "library/123a7251ba-ig.jpg",
+  "used": [],
+  "sharp": 638.1,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "9b5e10bb0b": {
+  "source": "buffet.PNG",
+  "category": "other",
+  "orientation": "portrait",
+  "fb": "library/9b5e10bb0b-fb.jpg",
+  "ig": "library/9b5e10bb0b-ig.jpg",
+  "used": [],
+  "sharp": 1250.3,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "3643023abb": {
+  "source": "corridor.PNG",
+  "category": "corridor",
+  "orientation": "portrait",
+  "fb": "library/3643023abb-fb.jpg",
+  "ig": "library/3643023abb-ig.jpg",
+  "used": [],
+  "sharp": 258.2
+ },
+ "37163f5cab": {
+  "source": "deluxe room.PNG",
+  "category": "room",
+  "orientation": "landscape",
+  "fb": "library/37163f5cab-fb.jpg",
+  "ig": "library/37163f5cab-ig.jpg",
+  "used": [
+   "2026-10-28"
+  ],
+  "sharp": 287.5,
+  "platforms": [
+   "facebook",
+   "instagram",
+   "x"
+  ]
+ },
+ "7780385517": {
+  "source": "drop service.HEIC",
+  "category": "other",
+  "orientation": "portrait",
+  "fb": "library/7780385517-fb.jpg",
+  "ig": "library/7780385517-ig.jpg",
+  "used": [],
+  "sharp": 1938.4,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "61c7bef1d5": {
+  "source": "farewell party at banquet.PNG",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/61c7bef1d5-fb.jpg",
+  "ig": "library/61c7bef1d5-ig.jpg",
+  "used": [],
+  "sharp": 860.4,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "c8eb600230": {
+  "source": "food.heic",
+  "category": "food",
+  "orientation": "portrait",
+  "fb": "library/c8eb600230-fb.jpg",
+  "ig": "library/c8eb600230-ig.jpg",
+  "used": [
+   "2026-10-23"
+  ],
+  "sharp": 215.4
+ },
+ "4be38889d1": {
+  "source": "food2.HEIC",
+  "category": "food",
+  "orientation": "portrait",
+  "fb": "library/4be38889d1-fb.jpg",
+  "ig": "library/4be38889d1-ig.jpg",
+  "used": [
+   "2026-10-26"
+  ],
+  "sharp": 297.4,
+  "platforms": [
+   "facebook",
+   "instagram",
+   "x"
+  ]
+ },
+ "f71b69d798": {
+  "source": "food3.HEIC",
+  "category": "food",
+  "orientation": "portrait",
+  "fb": "library/f71b69d798-fb.jpg",
+  "ig": "library/f71b69d798-ig.jpg",
+  "used": [],
+  "sharp": 620.4,
+  "platforms": [
+   "facebook",
+   "instagram",
+   "x"
+  ]
+ },
+ "aa6949d96c": {
+  "source": "kitty party women special.HEIC",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/aa6949d96c-fb.jpg",
+  "ig": "library/aa6949d96c-ig.jpg",
+  "used": [],
+  "sharp": 1281.1,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "80144a72c8": {
+  "source": "restaurant.PNG",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/80144a72c8-fb.jpg",
+  "ig": "library/80144a72c8-ig.jpg",
+  "used": [],
+  "sharp": 1125.2,
+  "note": "identifiable guests/faces: do not use"
+ },
+ "05778430f2": {
+  "source": "superior triple room.PNG",
+  "category": "room",
+  "orientation": "landscape",
+  "fb": "library/05778430f2-fb.jpg",
+  "ig": "library/05778430f2-ig.jpg",
+  "used": [
+   "2026-10-27"
+  ],
+  "sharp": 305.6,
+  "platforms": [
+   "facebook",
+   "instagram",
+   "x"
+  ]
+ },
+ "b256f1a2be": {
+  "source": "logo and slogan.PNG",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/b256f1a2be-fb.jpg",
+  "ig": "library/b256f1a2be-ig.jpg",
+  "used": [],
+  "sharp": 512.1
+ },
+ "86ef2171e7": {
+  "source": "logo.JPG",
+  "category": "other",
+  "orientation": "landscape",
+  "fb": "library/86ef2171e7-fb.jpg",
+  "ig": "library/86ef2171e7-ig.jpg",
+  "used": [],
+  "sharp": 435.8
+ },
+ "3efaaa216d": {
+  "source": "A Grand Stay at Shiny Grand.png",
+  "category": "flagged-ai",
+  "orientation": "portrait",
+  "fb": "library/3efaaa216d-fb.jpg",
+  "ig": "library/3efaaa216d-ig.jpg",
+  "used": [],
+  "sharp": 783.3
+ },
+ "a188036780": {
+  "source": "Family Comfort at Hotel Shiny Grand-1.png",
+  "category": "flagged-ai",
+  "orientation": "landscape",
+  "fb": "library/a188036780-fb.jpg",
+  "ig": "library/a188036780-ig.jpg",
+  "used": [],
+  "sharp": 1423.6
+ },
+ "d05a0c0548": {
+  "source": "Family Comfort at Hotel Shiny Grand-6.png",
+  "category": "flagged-ai",
+  "orientation": "landscape",
+  "fb": "library/d05a0c0548-fb.jpg",
+  "ig": "library/d05a0c0548-ig.jpg",
+  "used": [],
+  "sharp": 1498.8
+ },
+ "58a7b66b58": {
+  "source": "Family Togetherness at Hotel Shiny Grand-3.png",
+  "category": "flagged-ai",
+  "orientation": "landscape",
+  "fb": "library/58a7b66b58-fb.jpg",
+  "ig": "library/58a7b66b58-ig.jpg",
+  "used": [],
+  "sharp": 1299.2
+ },
+ "1437ef5695": {
+  "source": "Grand Comfort at Hotel Shiny Grand-2.png",
+  "category": "flagged-ai",
+  "orientation": "portrait",
+  "fb": "library/1437ef5695-fb.jpg",
+  "ig": "library/1437ef5695-ig.jpg",
+  "used": [],
+  "sharp": 1760.6
+ },
+ "b7b107fe10": {
+  "source": "Grand Comfort at Hotel Shiny Grand-6.png",
+  "category": "flagged-ai",
+  "orientation": "portrait",
+  "fb": "library/b7b107fe10-fb.jpg",
+  "ig": "library/b7b107fe10-ig.jpg",
+  "used": [],
+  "sharp": 1176.1
+ },
+ "30a5e01c6c": {
+  "source": "Hotel Shiny Grand Family Escape-5.png",
+  "category": "flagged-ai",
+  "orientation": "landscape",
+  "fb": "library/30a5e01c6c-fb.jpg",
+  "ig": "library/30a5e01c6c-ig.jpg",
+  "used": [],
+  "sharp": 1526.0
+ },
+ "88fb0c9921": {
+  "source": "Hotel Shiny Grand_ Comfort First-7.png",
+  "category": "flagged-ai",
+  "orientation": "portrait",
+  "fb": "library/88fb0c9921-fb.jpg",
+  "ig": "library/88fb0c9921-ig.jpg",
+  "used": [],
+  "sharp": 949.4
+ },
+ "791f9aaaa0": {
+  "source": "Hotel Shiny Grand_ Comfort and Warmth-5.png",
+  "category": "flagged-ai",
+  "orientation": "portrait",
+  "fb": "library/791f9aaaa0-fb.jpg",
+  "ig": "library/791f9aaaa0-ig.jpg",
+  "used": [],
+  "sharp": 1154.4
+ },
+ "4e5315b1c8": {
+  "source": "Hotel Shiny Grand_ Real Moments-4.png",
+  "category": "flagged-ai",
+  "orientation": "portrait",
+  "fb": "library/4e5315b1c8-fb.jpg",
+  "ig": "library/4e5315b1c8-ig.jpg",
+  "used": [],
+  "sharp": 1086.8
+ },
+ "0152f01f71": {
+  "source": "More Room for Togetherness-4.png",
+  "category": "flagged-ai",
+  "orientation": "landscape",
+  "fb": "library/0152f01f71-fb.jpg",
+  "ig": "library/0152f01f71-ig.jpg",
+  "used": [],
+  "sharp": 1507.2
+ },
+ "72bbd9a077": {
+  "source": "More Room for Togetherness-7.png",
+  "category": "flagged-ai",
+  "orientation": "landscape",
+  "fb": "library/72bbd9a077-fb.jpg",
+  "ig": "library/72bbd9a077-ig.jpg",
+  "used": [],
+  "sharp": 1272.6
+ },
+ "f174b8a2ce": {
+  "source": "More Room for Togetherness-8.png",
+  "category": "flagged-ai",
+  "orientation": "landscape",
+  "fb": "library/f174b8a2ce-fb.jpg",
+  "ig": "library/f174b8a2ce-ig.jpg",
+  "used": [],
+  "sharp": 1405.0
+ },
+ "0b7b799138": {
+  "source": "More Room, More Togetherness-2.png",
+  "category": "flagged-ai",
+  "orientation": "landscape",
+  "fb": "library/0b7b799138-fb.jpg",
+  "ig": "library/0b7b799138-ig.jpg",
+  "used": [],
+  "sharp": 1410.9
+ },
+ "44ca7a9e85": {
+  "source": "Warm Luxury Stay at Hotel Shiny Grand-1.png",
+  "category": "flagged-ai",
+  "orientation": "portrait",
+  "fb": "library/44ca7a9e85-fb.jpg",
+  "ig": "library/44ca7a9e85-ig.jpg",
+  "used": [],
+  "sharp": 1043.0
+ },
+ "8cbfcd436a": {
+  "source": "Your Comfort, Our Priority.png",
+  "category": "flagged-ai",
+  "orientation": "portrait",
+  "fb": "library/8cbfcd436a-fb.jpg",
+  "ig": "library/8cbfcd436a-ig.jpg",
+  "used": [],
+  "sharp": 1122.6
+ },
+ "6721dc848b": {
+  "source": "ad-banquet-enquiry_feed.png",
+  "category": "banquet",
+  "orientation": "portrait",
+  "fb": "library/6721dc848b-fb.jpg",
+  "ig": "library/6721dc848b-ig.jpg",
+  "used": [],
+  "sharp": 898.3,
+  "creative": true
+ },
+ "ee2a0e935c": {
+  "source": "ad-direct-booking_feed.png",
+  "category": "other",
+  "orientation": "portrait",
+  "fb": "library/ee2a0e935c-fb.jpg",
+  "ig": "library/ee2a0e935c-ig.jpg",
+  "used": [],
+  "sharp": 754.5,
+  "creative": true
+ },
+ "e0c5e0cc07": {
+  "source": "airport-arrival_feed.png",
+  "category": "exterior-day",
+  "orientation": "portrait",
+  "fb": "library/e0c5e0cc07-fb.jpg",
+  "ig": "library/e0c5e0cc07-ig.jpg",
+  "used": [],
+  "sharp": 869.4,
+  "creative": true
+ },
+ "fe1d9c39bd": {
+  "source": "banquet-occasions_feed.png",
+  "category": "banquet",
+  "orientation": "portrait",
+  "fb": "library/fe1d9c39bd-fb.jpg",
+  "ig": "library/fe1d9c39bd-ig.jpg",
+  "used": [],
+  "sharp": 773.9,
+  "creative": true
+ },
+ "eb285c8291": {
+  "source": "birthday-celebration_feed.png",
+  "category": "banquet",
+  "orientation": "portrait",
+  "fb": "library/eb285c8291-fb.jpg",
+  "ig": "library/eb285c8291-ig.jpg",
+  "used": [],
+  "sharp": 712.3,
+  "creative": true
+ },
+ "41b9f035a4": {
+  "source": "morning-buffet_feed.png",
+  "category": "food",
+  "orientation": "portrait",
+  "fb": "library/41b9f035a4-fb.jpg",
+  "ig": "library/41b9f035a4-ig.jpg",
+  "used": [],
+  "sharp": 1113.6,
+  "creative": true
+ },
+ "b9216bd2bb": {
+  "source": "restaurant-table_feed.png",
+  "category": "restaurant",
+  "orientation": "portrait",
+  "fb": "library/b9216bd2bb-fb.jpg",
+  "ig": "library/b9216bd2bb-ig.jpg",
+  "used": [],
+  "sharp": 928.6,
+  "creative": true
+ },
+ "e925f41436": {
+  "source": "room-rest_feed.png",
+  "category": "room",
+  "orientation": "portrait",
+  "fb": "library/e925f41436-fb.jpg",
+  "ig": "library/e925f41436-ig.jpg",
+  "used": [],
+  "sharp": 691.3,
+  "creative": true
+ },
+ "d9be7775af": {
+  "source": "single-room_feed.png",
+  "category": "room",
+  "orientation": "portrait",
+  "fb": "library/d9be7775af-fb.jpg",
+  "ig": "library/d9be7775af-ig.jpg",
+  "used": [],
+  "sharp": 782.3,
+  "creative": true
+ },
+ "0a34f04bdc": {
+  "source": "ad-banquet-enquiry_feed.png",
+  "category": "banquet",
+  "orientation": "portrait",
+  "fb": "library/0a34f04bdc-fb.jpg",
+  "ig": "library/0a34f04bdc-ig.jpg",
+  "used": [],
+  "sharp": 819.0,
+  "creative": true
+ },
+ "02b2ee971e": {
+  "source": "ad-direct-booking_feed.png",
+  "category": "other",
+  "orientation": "portrait",
+  "fb": "library/02b2ee971e-fb.jpg",
+  "ig": "library/02b2ee971e-ig.jpg",
+  "used": [],
+  "sharp": 723.2,
+  "creative": true
+ },
+ "73007ee2b5": {
+  "source": "airport-arrival_feed.png",
+  "category": "exterior-day",
+  "orientation": "portrait",
+  "fb": "library/73007ee2b5-fb.jpg",
+  "ig": "library/73007ee2b5-ig.jpg",
+  "used": [],
+  "sharp": 1428.3,
+  "creative": true
+ },
+ "746426e0bc": {
+  "source": "banquet-occasions_feed.png",
+  "category": "banquet",
+  "orientation": "portrait",
+  "fb": "library/746426e0bc-fb.jpg",
+  "ig": "library/746426e0bc-ig.jpg",
+  "used": [],
+  "sharp": 832.0,
+  "creative": true
+ },
+ "56dd3e6e09": {
+  "source": "birthday-celebration_feed.png",
+  "category": "banquet",
+  "orientation": "portrait",
+  "fb": "library/56dd3e6e09-fb.jpg",
+  "ig": "library/56dd3e6e09-ig.jpg",
+  "used": [],
+  "sharp": 919.6,
+  "creative": true
+ },
+ "6b189b8a6f": {
+  "source": "morning-buffet_feed.png",
+  "category": "food",
+  "orientation": "portrait",
+  "fb": "library/6b189b8a6f-fb.jpg",
+  "ig": "library/6b189b8a6f-ig.jpg",
+  "used": [],
+  "sharp": 1682.2,
+  "creative": true
+ },
+ "9770a295fa": {
+  "source": "restaurant-table_feed.png",
+  "category": "restaurant",
+  "orientation": "portrait",
+  "fb": "library/9770a295fa-fb.jpg",
+  "ig": "library/9770a295fa-ig.jpg",
+  "used": [],
+  "sharp": 1217.0,
+  "creative": true
+ },
+ "99f220ee90": {
+  "source": "room-rest_feed.png",
+  "category": "room",
+  "orientation": "portrait",
+  "fb": "library/99f220ee90-fb.jpg",
+  "ig": "library/99f220ee90-ig.jpg",
+  "used": [],
+  "sharp": 737.7,
+  "creative": true
+ },
+ "c99f0be3cc": {
+  "source": "single-room_feed.png",
+  "category": "room",
+  "orientation": "portrait",
+  "fb": "library/c99f0be3cc-fb.jpg",
+  "ig": "library/c99f0be3cc-ig.jpg",
+  "used": [],
+  "sharp": 777.9,
+  "creative": true
+ },
+ "2b3740e50a": {
+  "source": "ad-banquet-enquiry_feed.png",
+  "category": "banquet",
+  "orientation": "portrait",
+  "fb": "library/2b3740e50a-fb.jpg",
+  "ig": "library/2b3740e50a-ig.jpg",
+  "used": [],
+  "sharp": 889.5,
+  "creative": true
+ },
+ "cb3043fa24": {
+  "source": "ad-direct-booking_feed.png",
+  "category": "other",
+  "orientation": "portrait",
+  "fb": "library/cb3043fa24-fb.jpg",
+  "ig": "library/cb3043fa24-ig.jpg",
+  "used": [],
+  "sharp": 762.6,
+  "creative": true
+ },
+ "b2f9eb919b": {
+  "source": "airport-arrival_feed.png",
+  "category": "exterior-day",
+  "orientation": "portrait",
+  "fb": "library/b2f9eb919b-fb.jpg",
+  "ig": "library/b2f9eb919b-ig.jpg",
+  "used": [],
+  "sharp": 981.9,
+  "creative": true
+ },
+ "0443717e8e": {
+  "source": "banquet-occasions_feed.png",
+  "category": "banquet",
+  "orientation": "portrait",
+  "fb": "library/0443717e8e-fb.jpg",
+  "ig": "library/0443717e8e-ig.jpg",
+  "used": [],
+  "sharp": 766.0,
+  "creative": true
+ },
+ "951277da1a": {
+  "source": "birthday-celebration_feed.png",
+  "category": "banquet",
+  "orientation": "portrait",
+  "fb": "library/951277da1a-fb.jpg",
+  "ig": "library/951277da1a-ig.jpg",
+  "used": [],
+  "sharp": 725.6,
+  "creative": true
+ },
+ "20ed152c14": {
+  "source": "morning-buffet_feed.png",
+  "category": "food",
+  "orientation": "portrait",
+  "fb": "library/20ed152c14-fb.jpg",
+  "ig": "library/20ed152c14-ig.jpg",
+  "used": [],
+  "sharp": 1325.2,
+  "creative": true
+ },
+ "e1d6bdf5e7": {
+  "source": "restaurant-table_feed.png",
+  "category": "restaurant",
+  "orientation": "portrait",
+  "fb": "library/e1d6bdf5e7-fb.jpg",
+  "ig": "library/e1d6bdf5e7-ig.jpg",
+  "used": [],
+  "sharp": 951.2,
+  "creative": true
+ },
+ "e6268f5f51": {
+  "source": "room-rest_feed.png",
+  "category": "room",
+  "orientation": "portrait",
+  "fb": "library/e6268f5f51-fb.jpg",
+  "ig": "library/e6268f5f51-ig.jpg",
+  "used": [],
+  "sharp": 701.0,
+  "creative": true
+ },
+ "134d3712ec": {
+  "source": "single-room_feed.png",
+  "category": "room",
+  "orientation": "portrait",
+  "fb": "library/134d3712ec-fb.jpg",
+  "ig": "library/134d3712ec-ig.jpg",
+  "used": [],
+  "sharp": 796.0,
+  "creative": true
+ },
+ "489a70facc": {
+  "source": "ad-banquet-enquiry_feed.png",
+  "category": "banquet",
+  "orientation": "portrait",
+  "fb": "library/489a70facc-fb.jpg",
+  "ig": "library/489a70facc-ig.jpg",
+  "used": [],
+  "sharp": 835.8,
+  "creative": true
+ },
+ "d638d7b3a9": {
+  "source": "ad-direct-booking_feed.png",
+  "category": "other",
+  "orientation": "portrait",
+  "fb": "library/d638d7b3a9-fb.jpg",
+  "ig": "library/d638d7b3a9-ig.jpg",
+  "used": [],
+  "sharp": 743.5,
+  "creative": true
+ },
+ "4dee1dc5be": {
+  "source": "airport-arrival_feed.png",
+  "category": "exterior-day",
+  "orientation": "portrait",
+  "fb": "library/4dee1dc5be-fb.jpg",
+  "ig": "library/4dee1dc5be-ig.jpg",
+  "used": [],
+  "sharp": 1549.8,
+  "creative": true
+ },
+ "4b0d383b5f": {
+  "source": "banquet-occasions_feed.png",
+  "category": "banquet",
+  "orientation": "portrait",
+  "fb": "library/4b0d383b5f-fb.jpg",
+  "ig": "library/4b0d383b5f-ig.jpg",
+  "used": [],
+  "sharp": 724.7,
+  "creative": true
+ },
+ "5259fa5b85": {
+  "source": "birthday-celebration_feed.png",
+  "category": "banquet",
+  "orientation": "portrait",
+  "fb": "library/5259fa5b85-fb.jpg",
+  "ig": "library/5259fa5b85-ig.jpg",
+  "used": [],
+  "sharp": 925.7,
+  "creative": true
+ },
+ "375d25f36a": {
+  "source": "morning-buffet_feed.png",
+  "category": "food",
+  "orientation": "portrait",
+  "fb": "library/375d25f36a-fb.jpg",
+  "ig": "library/375d25f36a-ig.jpg",
+  "used": [],
+  "sharp": 1710.2,
+  "creative": true
+ },
+ "fd0ffcf7d4": {
+  "source": "restaurant-table_feed.png",
+  "category": "restaurant",
+  "orientation": "portrait",
+  "fb": "library/fd0ffcf7d4-fb.jpg",
+  "ig": "library/fd0ffcf7d4-ig.jpg",
+  "used": [],
+  "sharp": 1290.1,
+  "creative": true
+ },
+ "4fbe5f8498": {
+  "source": "room-rest_feed.png",
+  "category": "room",
+  "orientation": "portrait",
+  "fb": "library/4fbe5f8498-fb.jpg",
+  "ig": "library/4fbe5f8498-ig.jpg",
+  "used": [],
+  "sharp": 754.8,
+  "creative": true
+ },
+ "211f001da7": {
+  "source": "single-room_feed.png",
+  "category": "room",
+  "orientation": "portrait",
+  "fb": "library/211f001da7-fb.jpg",
+  "ig": "library/211f001da7-ig.jpg",
+  "used": [],
+  "sharp": 747.7,
+  "creative": true
+ }
+}
